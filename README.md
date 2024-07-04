@@ -17,11 +17,11 @@
 1. Убедитесь, что у вас установлена Java JDK.
 2. Склонируйте репозиторий:
    ```
-   git clone https://github.com/ваш-username/PhoneBook.git
+   git clone https://github.com/ваш-username/-PhoneBook.git
    ```
 3. Перейдите в директорию проекта:
    ```
-   cd PhoneBook
+   cd -PhoneBook
    ```
 4. Скомпилируйте Java-файл:
    ```
